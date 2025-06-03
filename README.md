@@ -1,0 +1,1 @@
+Hi Squareshift, This is a test done to check the capabilities of this bot
